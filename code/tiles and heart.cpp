@@ -1,3 +1,4 @@
+//Willem DeJong
 #include <windows.h>   // use as needed for your system
 #include <gl/Gl.h>
 #include <gl/glu.h>
